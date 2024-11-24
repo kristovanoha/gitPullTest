@@ -9,5 +9,7 @@ namespace GitPullTest
     internal class TestB
     {
         //druha trida
+
+        //zmena 1
     }
 }
