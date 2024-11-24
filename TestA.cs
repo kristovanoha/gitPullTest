@@ -9,5 +9,7 @@ namespace GitPullTest
     internal class TestA
     {
         int a = 1;
+
+        //muj stus
     }
 }
