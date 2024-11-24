@@ -19,5 +19,7 @@ namespace GitPullTest
         //zmena dva
 
         //zmena tri
+
+        //zmena 4
     }
 }
