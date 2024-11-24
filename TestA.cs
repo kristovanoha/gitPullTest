@@ -14,6 +14,6 @@ namespace GitPullTest
 
          //zjednoduseni
 
-        //novinka
+        //novinka tochu jinak
     }
 }
