@@ -11,5 +11,7 @@ namespace GitPullTest
         int a = 1;
 
         //muj stus dev
+
+        //pridavek
     }
 }
