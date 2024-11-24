@@ -11,5 +11,7 @@ namespace GitPullTest
         //druha trida
 
         //zmena 1
+
+        //zmena 2
     }
 }
