@@ -6,4 +6,6 @@
 *.suo
 
 # Ignore Debug folder
+Bin/Debug/
+
 Debug/
