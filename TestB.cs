@@ -6,16 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitPullTest
 {
-    internal class TestA
+    internal class TestB
     {
-        int a = 1;
-
-        //muj stus dev
-
-         //zjednoduseni
-
-        //novinka tochu jinak
-
-        //neco OPrvaeno
+        //druha trida
     }
 }
