@@ -17,5 +17,7 @@ namespace GitPullTest
         //novinka tochu jinak
 
         //neco OPrvaeno
+
+        //zmena 3
     }
 }
