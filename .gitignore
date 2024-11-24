@@ -9,3 +9,13 @@
 Bin/Debug/
 
 Debug/
+
+[Bb]in/
+[Dd]ebug/
+**/Debug/
+**/Debug/net*/  # Ignorovat složky jako net8.0, net6.0 atd.
+obj/
+
+
+# Ignore all obj folders recursively
+**/obj/
