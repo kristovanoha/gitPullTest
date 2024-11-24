@@ -16,6 +16,6 @@ namespace GitPullTest
 
         //novinka tochu jinak
 
-        //neco spatne
+        //neco OPrvaeno
     }
 }
