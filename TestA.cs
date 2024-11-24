@@ -9,5 +9,17 @@ namespace GitPullTest
     internal class TestA
     {
         int a = 1;
+
+        //muj stus dev
+
+        //pridavek
+
+        //zmena jedna
+
+        //zmena dva
+
+        //zmena tri
+
+        //zmena 4
     }
 }
