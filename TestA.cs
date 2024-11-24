@@ -10,6 +10,6 @@ namespace GitPullTest
     {
         int a = 1;
 
-        //muj stus
+        //muj stus dev
     }
 }
