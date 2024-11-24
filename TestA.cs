@@ -12,12 +12,6 @@ namespace GitPullTest
 
         //muj stus dev
 
-        //pridavek
-
-        //zmena jedna
-
-        //zmena dva
-
-        //zmena tri
+         //zjednoduseni
     }
 }
