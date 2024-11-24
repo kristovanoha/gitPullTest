@@ -1,0 +1,6 @@
+# Visual Studio cache and workspace
+.vs/
+*.vsidx
+*.vscode
+*.user
+*.suo
