@@ -4,3 +4,6 @@
 *.vscode
 *.user
 *.suo
+
+# Ignore Debug folder
+Debug/
