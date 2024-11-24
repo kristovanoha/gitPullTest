@@ -13,5 +13,7 @@ namespace GitPullTest
         //muj stus dev
 
          //zjednoduseni
+
+        //novinka
     }
 }
